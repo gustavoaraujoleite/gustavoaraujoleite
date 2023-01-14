@@ -18,9 +18,7 @@ My name is Gustavo Leite and I am Software Developer. I currently work at Arcadi
 <br />
 
 <br />
-<br />
 
-<br />
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently a Junior Software Developer at Arcadis.
