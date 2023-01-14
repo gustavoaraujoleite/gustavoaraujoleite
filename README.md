@@ -12,7 +12,7 @@
 My name is Gustavo Leite and I am Software Developer. I currently work at Arcadis as a Junior Software Developer, using ReactJs, Nextjs, React Native, NodeJs, Python as main tools. 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif?cid=ecf05e47pbynv4akwsvpaxedy0ewy3a6xawyyjpgt1aeat0p&rid=giphy.gif&ct=g" />
 
 
 **Talking about Personal Stuffs:**
