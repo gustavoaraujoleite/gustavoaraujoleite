@@ -3,7 +3,7 @@
 </br>
 
 <a href="https://www.instagram.com/gustavoaraujoleite/">
-<img align="left" alt="Gustavo IG" width="24px" color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Gustavo IG" width="24px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
 </a>
 <br />
 
