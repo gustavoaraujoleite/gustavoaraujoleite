@@ -21,8 +21,8 @@ My name is Gustavo Leite and I am Software Developer. I currently work at Arcadi
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently a Junior Software Developer at Arcadis.
-- 🌱 I’m currently learning Angular, AWS & Flutter.
+- 🔭 Frontend Software Developer working for Global System at Mackenzie.
+- 🌱 I’m currently learning Angular, AWS & Java.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything.✌
 - 📫 How to reach me: Linkedin or Instagram attached above
