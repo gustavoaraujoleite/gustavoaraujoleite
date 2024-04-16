@@ -42,5 +42,5 @@ My name is Gustavo Leite and I am Software Developer. I currently work at Arcadi
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=gustavoaraujoleite&color=green)
+![](https://komarev.com/ghpvc/?username=gustavoaraujoleite&color=green&style=plastic)
 
