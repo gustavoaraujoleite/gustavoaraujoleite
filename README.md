@@ -45,6 +45,7 @@ My name is Gustavo Leite and I am Software Developer. I currently work at Arcadi
 ![](https://komarev.com/ghpvc/?username=gustavoaraujoleite&color=green&style=plastic)
 
 <br />
+
 ![gustavoaraujoleite's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavoaraujoleite&theme=gotham&hide_border=true)
 
 <br />
