@@ -9,7 +9,11 @@
 
 <br />
 
-My name is Gustavo Leite and I am Software Developer. I currently work at Arcadis as a Junior Software Developer, using ReactJs, Nextjs, React Native, NodeJs, Python as main tools. 
+My name is Gustavo Leite and I am Software Developer, currently working at Instituto Presbiteriano Mackenzie as a Software Developer. 
+
+<br />
+
+My professional daily routine includes solving various tasks using tools like: Next.Js, Typescript, Cypress, React Native, Node.Js (Backend), Postgres, Storybook!
 
 
 
@@ -21,8 +25,8 @@ My name is Gustavo Leite and I am Software Developer. I currently work at Arcadi
 
 **Talking about Personal Stuffs:**
 
-- 🔭 Frontend Software Developer working for Global System at Mackenzie.
-- 🌱 I’m currently learning Angular, AWS & Java.
+- 🔭 Software Developer working for  Instituto Presbiteriano Mackenzie.
+- 🌱 I’m currently learning Software Architecturem, DevOps and Golang.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything.✌
 - 📫 How to reach me: Linkedin or Instagram attached above
