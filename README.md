@@ -13,7 +13,7 @@ My name is Gustavo Leite and I am Software Developer, currently working at Insti
 
 <br />
 
-My professional daily routine includes solving various tasks using tools like: Next.Js, Typescript, Cypress, React Native, Node.Js (Backend), Postgres, Storybook!
+My professional daily routine includes solving various tasks using tools like: React.js, Next.js, Typescript, Node.Js, Redis, Cypress, Postgres, Docker, React Native, Storybook!
 
 
 
@@ -44,13 +44,6 @@ My professional daily routine includes solving various tasks using tools like: N
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<br />
-
-![](https://komarev.com/ghpvc/?username=gustavoaraujoleite&color=green&style=plastic)
-
-<br />
-
-![gustavoaraujoleite's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavoaraujoleite&theme=gotham&hide_border=true)
 
 <br />
 
