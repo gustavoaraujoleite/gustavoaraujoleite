@@ -6,6 +6,8 @@
 </br>
 
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/24px-Instagram_logo_2022.svg.png)](https://www.instagram.com/gustavoaraujoleite)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/gustavoaraujoleite)
+
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7a/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/gustavoaraujoleite)
 
 <br />
