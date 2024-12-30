@@ -1,9 +1,13 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+
 ### Hello Coders👋 It's [Gustavo!](https://www.linkedin.com/in/gustavoaraujoleite/)
 
 </br>
 
 <a href="https://www.instagram.com/gustavoaraujoleite/">
-<img align="left" alt="Gustavo IG" width="24px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
+  <i align="left" width="24px" class="fab fa-instagram"></i>
+
 </a>
 <br />
 
