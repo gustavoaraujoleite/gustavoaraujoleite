@@ -9,8 +9,6 @@
 
 <br />
 
-<br />
-
 My name is Gustavo Leite and I am Software Developer, currently working at Instituto Presbiteriano Mackenzie as a Software Developer. 
 
 <br />
