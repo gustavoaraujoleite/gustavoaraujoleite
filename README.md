@@ -7,7 +7,7 @@
 
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/24px-Instagram_logo_2022.svg.png)](https://www.instagram.com/gustavoaraujoleite)
 <a href="https://www.linkedin.com/in/gustavoaraujoleite">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" width="24" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24" />
 </a>
 
 
