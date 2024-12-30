@@ -5,10 +5,8 @@
 
 </br>
 
-<a href="https://www.instagram.com/gustavoaraujoleite/">
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)](https://www.instagram.com/gustavoaraujoleite)
 
-</a>
 <br />
 
 <br />
