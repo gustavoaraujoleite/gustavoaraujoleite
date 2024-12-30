@@ -6,7 +6,7 @@
 </br>
 
 <a href="https://www.instagram.com/gustavoaraujoleite/">
-  <i align="left" width="24px" class="fab fa-instagram"></i>
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png)](https://www.instagram.com/gustavoaraujoleite)
 
 </a>
 <br />
