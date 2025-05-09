@@ -37,7 +37,7 @@ My professional daily routine includes solving various tasks using tools like: R
 <br />
 
 <br />
-![Leetcode Stats](https://leetcard.jacoblin.cool/gustavoaraujoleite)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/gustavoaraujoleite)](https://leetcode.com/gustavoaraujoleite)
 <br />
 
 <br />
