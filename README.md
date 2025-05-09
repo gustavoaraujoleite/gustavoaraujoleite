@@ -34,7 +34,10 @@ My professional daily routine includes solving various tasks using tools like: R
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything.✌
 - 📫 How to reach me: Linkedin or Instagram attached above
+<br />
 
+<br />
+![Leetcode Stats](https://leetcard.jacoblin.cool/gustavoaraujoleite)
 <br />
 
 <br />
